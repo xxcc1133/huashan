@@ -1,4 +1,9 @@
 华山剑法，
+<<<<<<< HEAD
 我是令狐冲，我会独孤九剑 eit by linghu chong 
 你不会...>>>  
+
+我是令狐冲，我会独孤九剑 eit by yun hu qun
+你不会...>>>
+
 我会i dont no
